@@ -1,0 +1,527 @@
+[
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.order_printing",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.order_scanning",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.replenishment_unload_scanning",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.print_order_on_assignment",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.tote_scanning_at_load",
+    "value": true
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.tote_scanning_at_unload",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.replenishment_warning_weight",
+    "value": 20000
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.replenishment_error_weight",
+    "value": 40000
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.guide.loading",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.guide.picking",
+    "value": true
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.guide.unloading",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.guide.replenishment_load",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.guide.replenishment_drop",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.token.use_token",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.token.num_max_token",
+    "value": 10
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.user_identification",
+    "value": true
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.load_unload_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.replenishment_load_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.replenishment_unload_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "workflow_options.ar_tag_localization",
+    "value": true
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "policy.accept_lot_number_mismatch",
+    "value": true
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "policy.ignore_lot_number_mismatch",
+    "value": true
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "arrival_time_estimation_params.picker.f0",
+    "value": 0
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "arrival_time_estimation_params.picker.a0",
+    "value": 3.0
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "arrival_time_estimation_params.picker.a1",
+    "value": 0.769230769
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "arrival_time_estimation_params.robot.f0",
+    "value": 2.83279290412
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "arrival_time_estimation_params.robot.a0",
+    "value": 7.3869169912
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "arrival_time_estimation_params.robot.a1",
+    "value": 1.5158640267
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "application_options.guide_screen_timeout",
+    "value": 3
+  },
+  {
+    "site_id": "project-cqfh9eecf0cs73d1mnog",
+    "key": "application_options.needs_charging_percentage",
+    "value": 20.0
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.order_printing",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.unload_order_printing",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.order_scanning",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.replenishment_unload_scanning",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.print_order_on_assignment",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.tote_scanning_at_load",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.tote_scanning_at_unload",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.user_identification_expires",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.guide.loading",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.guide.picking",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.guide.unloading",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.guide.replenishment_load",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.guide.replenishment_drop",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.guide.induction_load",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.guide.induction_drop",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.token.use_token",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.token.num_max_token",
+    "value": 251
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.user_identification",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.load_unload_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.replenishment_load_user_identification",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.replenishment_unload_user_identification",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.induction_load_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.ar_tag_localization",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.drop_off_location_scan",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.print_at_picking",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.print_at_picking_always_one_label",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.print_at_picking_on_exception",
+    "value": false
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "workflow_options.picking_loading_print_location",
+    "value": "none"
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "policy.accept_lot_number_mismatch",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "policy.ignore_lot_number_mismatch",
+    "value": true
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "arrival_time_estimation_params.picker.f0",
+    "value": 0
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "arrival_time_estimation_params.picker.a0",
+    "value": 3.0
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "arrival_time_estimation_params.picker.a1",
+    "value": 0.769230769
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "arrival_time_estimation_params.robot.f0",
+    "value": 2.83279290412
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "arrival_time_estimation_params.robot.a0",
+    "value": 7.3869169912
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "arrival_time_estimation_params.robot.a1",
+    "value": 1.5158640267
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "application_options.guide_screen_timeout",
+    "value": 5
+  },
+  {
+    "site_id": "project-cqqq9qmcf0cs73d1p810",
+    "key": "application_options.needs_charging_percentage",
+    "value": 20.0
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.order_printing",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.order_scanning",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.replenishment_unload_scanning",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.print_order_on_assignment",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.tote_scanning_at_load",
+    "value": true
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.tote_scanning_at_unload",
+    "value": true
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.user_identification_expires",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.guide.loading",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.guide.picking",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.guide.unloading",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.guide.replenishment_load",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.guide.replenishment_drop",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.guide.induction_load",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.guide.induction_drop",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.token.use_token",
+    "value": true
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.token.num_max_token",
+    "value": 251
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.user_identification",
+    "value": true
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.load_unload_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.replenishment_load_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.replenishment_unload_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.induction_load_user_identification",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.ar_tag_localization",
+    "value": true
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.drop_off_location_scan",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.print_at_picking",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.print_at_picking_always_one_label",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.print_at_picking_on_exception",
+    "value": false
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "workflow_options.picking_loading_print_location",
+    "value": "none"
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "policy.accept_lot_number_mismatch",
+    "value": true
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "policy.ignore_lot_number_mismatch",
+    "value": true
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "arrival_time_estimation_params.picker.f0",
+    "value": 0
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "arrival_time_estimation_params.picker.a0",
+    "value": 3.0
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "arrival_time_estimation_params.picker.a1",
+    "value": 0.769230769
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "arrival_time_estimation_params.robot.f0",
+    "value": 2.83279290412
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "arrival_time_estimation_params.robot.a0",
+    "value": 7.3869169912
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "arrival_time_estimation_params.robot.a1",
+    "value": 1.5158640267
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "application_options.guide_screen_timeout",
+    "value": 5
+  },
+  {
+    "site_id": "project-cpaubp2a26lc738is7rg",
+    "key": "application_options.needs_charging_percentage",
+    "value": 15.0
+  }
+]
